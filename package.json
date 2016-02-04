@@ -1,0 +1,28 @@
+{
+  "name": "gulpTsHelpers",
+  "version": "0.0.1",
+  "description": "Helpers for compiling TypeScript from Gulp.",
+  "main": "src/gulpTsHelpers.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "https://github.com/kwpeters/gulpTsHelpers.git"
+  },
+  "keywords": [
+    "gulp",
+    "typescript"
+  ],
+  "author": "Kevin Peters <kwpeters@gmail.com>",
+  "license": "MIT",
+  "bugs": {
+    "url": "https://github.com/kwpeters/gulpTsHelpers/issues"
+  },
+  "homepage": "https://github.com/kwpeters/gulpTsHelpers",
+  "dependencies": {
+    "merge-stream": "1.0.0",
+    "q": "1.4.1",
+    "stream-consume": "0.1.0"
+  }
+}
